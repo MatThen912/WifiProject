@@ -1,0 +1,14 @@
+# Ignore virtual environment
+env/
+
+# Ignore database and migrations
+db.sqlite3
+*/migrations/
+
+# Ignore compiled files
+__pycache__/
+*.py[cod]
+
+# Ignore other Django-specific files
+*.log
+.DS_Store
